@@ -10,5 +10,6 @@ A simple utility to determine whether a block exists or not.  If the target bloc
 the utility will continue to poll until the block exists.
 
 ```
+npm i
 node index.js -n <blocknumber>
 ```
