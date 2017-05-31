@@ -1,0 +1,20 @@
+{
+  "name": "mpint-is-it-block",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.16.1",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "ora": "^1.2.0"
+  }
+}
