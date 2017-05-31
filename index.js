@@ -1,8 +1,7 @@
-var URL = require('url').URL;
-var colors = require('colors');
+var ora = require('ora');
 var axios = require('axios');
+var colors = require('colors');
 var program = require('commander');
-var ora = require('ora')
 
 program
   .version('0.0.1')
